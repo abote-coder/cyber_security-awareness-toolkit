@@ -1,0 +1,21 @@
+{ "incident_report": {
+    "reporter_info": {
+      "full_name": "John Doe",
+      "user_id": "STU-987654",
+      "email": "johndoe@campus-cybershield.edu",
+      "department": "Computer Science"
+    },
+    "incident_details": {
+      "timestamp": "2026-03-06T14:30:00Z",
+      "incident_type": "Phishing Email",
+      "severity": "Medium",
+      "affected_device": "Student Laptop - macOS",
+      "description": "Received an unexpected email requesting urgent verification of university portal password via an unverified link."
+    },
+    "action_taken": {
+      "link_clicked": false,
+      "password_entered": false,
+      "network_disconnected": true
+    }
+  }
+}
